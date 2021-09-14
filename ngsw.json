@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1629296952272,
+  "timestamp": 1631656603288,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.3bd805a4d321519d979f.js",
+        "/main.278a457b65d1f0f4f893.js",
         "/manifest.webmanifest",
         "/polyfills.8c151b8375e767ff858f.js",
         "/runtime.0e49e2b53282f40c8925.js",
@@ -75,13 +75,13 @@
     "/assets/images/projects/reservaEspais.PNG": "cbb804b2552fe5dd04d410c5639048b5889510cd",
     "/assets/images/projects/workpoint.jpg": "253ebd1d18041d71d70b6f47dd3c69e8e1fabb75",
     "/assets/images/sunil.png": "66fe40c66e958bff050ab5417dc76974e02b21cf",
-    "/assets/scss/_app.scss": "6f10d1ff6ba7966ad211c4e61c6412fe869905f2",
-    "/assets/scss/_reset.scss": "b8e6cbb0f21347db098fb34fc8c6433911b72ca1",
-    "/assets/scss/_variables.scss": "a715408fcabe81cfab47a494341a938f609d8c0f",
+    "/assets/scss/_app.scss": "86ac5abb275fcd6fddde32006c749ea1c8bd7c92",
+    "/assets/scss/_reset.scss": "75adb84cfae83b2b9b1af435ae78cbc635316ba7",
+    "/assets/scss/_variables.scss": "ace7b663cf4248316c2220c5fa03e1a82c00ece1",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "1bdb96c0dc3251b2948d4fa487854d6f22711587",
-    "/main.3bd805a4d321519d979f.js": "e87ea4e11c5478ece2746cc05c51067c2990d929",
-    "/manifest.webmanifest": "85df4f4fb94a73dd922c8535f81e474192ec8879",
+    "/index.html": "3e3b1b8384b0914a98a2924da0557c04f87ee96f",
+    "/main.278a457b65d1f0f4f893.js": "6e152a566a73e375db51979fc3bd3c9dbcea8aab",
+    "/manifest.webmanifest": "bba580dddd39eeed15b8423449ff3d285510606d",
     "/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
     "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/scripts.8c895b14ac5afb48e4f9.js": "4a9c47c12b0a252ee4fab9b88e7006cb6b075fdf",
