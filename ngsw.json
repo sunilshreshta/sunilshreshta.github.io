@@ -1,0 +1,109 @@
+{
+  "configVersion": 1,
+  "timestamp": 1636664544630,
+  "index": "https://sunilshreshta.github.io/en/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://sunilshreshta.github.io/en/favicon.ico",
+        "https://sunilshreshta.github.io/en/index.html",
+        "https://sunilshreshta.github.io/en/main.3e2bdee79a228444b361.js",
+        "https://sunilshreshta.github.io/en/manifest.webmanifest",
+        "https://sunilshreshta.github.io/en/polyfills.8c151b8375e767ff858f.js",
+        "https://sunilshreshta.github.io/en/runtime.0e49e2b53282f40c8925.js",
+        "https://sunilshreshta.github.io/en/scripts.8c895b14ac5afb48e4f9.js",
+        "https://sunilshreshta.github.io/en/styles.ce5f02d4d43d8ffe079e.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://sunilshreshta.github.io/en/assets/icons/icon-128x128.png",
+        "https://sunilshreshta.github.io/en/assets/icons/icon-144x144.png",
+        "https://sunilshreshta.github.io/en/assets/icons/icon-152x152.png",
+        "https://sunilshreshta.github.io/en/assets/icons/icon-192x192.png",
+        "https://sunilshreshta.github.io/en/assets/icons/icon-256x256.png",
+        "https://sunilshreshta.github.io/en/assets/icons/icon-384x384.png",
+        "https://sunilshreshta.github.io/en/assets/icons/icon-512x512.png",
+        "https://sunilshreshta.github.io/en/assets/icons/icon-72x72.png",
+        "https://sunilshreshta.github.io/en/assets/icons/icon-96x96.png",
+        "https://sunilshreshta.github.io/en/assets/images/favicon.jpg",
+        "https://sunilshreshta.github.io/en/assets/images/favicon_2.png",
+        "https://sunilshreshta.github.io/en/assets/images/mailbox.svg",
+        "https://sunilshreshta.github.io/en/assets/images/mylogo.jpg",
+        "https://sunilshreshta.github.io/en/assets/images/mylogo2.jpg",
+        "https://sunilshreshta.github.io/en/assets/images/profile.png",
+        "https://sunilshreshta.github.io/en/assets/images/projects/reservaEspais.PNG",
+        "https://sunilshreshta.github.io/en/assets/images/projects/workpoint.jpg",
+        "https://sunilshreshta.github.io/en/assets/images/sunil.png",
+        "https://sunilshreshta.github.io/en/assets/scss/_app.scss",
+        "https://sunilshreshta.github.io/en/assets/scss/_reset.scss",
+        "https://sunilshreshta.github.io/en/assets/scss/_variables.scss"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://sunilshreshta.github.io/en/assets/icons/icon-128x128.png": "8b5d751d7658dfa5a9240f364b9957982c2bfaf8",
+    "https://sunilshreshta.github.io/en/assets/icons/icon-144x144.png": "c7a2e43df4aa3d52b203b8e1ef54b91e86f41cb7",
+    "https://sunilshreshta.github.io/en/assets/icons/icon-152x152.png": "b45e387e3d53d82f73ce0ea5dba4ae0ab59a17bb",
+    "https://sunilshreshta.github.io/en/assets/icons/icon-192x192.png": "97a47b69c863da36fadc9327af0ec8e2f2b5ab09",
+    "https://sunilshreshta.github.io/en/assets/icons/icon-256x256.png": "ae9a76b8fc7f5d6fc940919605803816ae2985fb",
+    "https://sunilshreshta.github.io/en/assets/icons/icon-384x384.png": "38750a8ea7bdd464aef6f0c93b3e0573f62001c3",
+    "https://sunilshreshta.github.io/en/assets/icons/icon-512x512.png": "66f69f7d65418d28fea3f7c310797d56a11b684c",
+    "https://sunilshreshta.github.io/en/assets/icons/icon-72x72.png": "45c09bba7c0f351defc37f89c46e374d590b46f7",
+    "https://sunilshreshta.github.io/en/assets/icons/icon-96x96.png": "42b7843f9d7ea5f11e7a5bcb74d2f08ec4f7bd22",
+    "https://sunilshreshta.github.io/en/assets/images/favicon.jpg": "a7819ef2871b5d6dccf76526bfd1bd3c3807b609",
+    "https://sunilshreshta.github.io/en/assets/images/favicon_2.png": "9fcfa6df867604bf6c6f38dca2d15c1600bf0c90",
+    "https://sunilshreshta.github.io/en/assets/images/mailbox.svg": "0b70bcd0a4ebfbc8801f3b527699fea29f105f95",
+    "https://sunilshreshta.github.io/en/assets/images/mylogo.jpg": "00464d8e6baf4763c0ba9409b46559ad18a78c43",
+    "https://sunilshreshta.github.io/en/assets/images/mylogo2.jpg": "60901db42c16c1db630991c7444bec7e209478d2",
+    "https://sunilshreshta.github.io/en/assets/images/profile.png": "b6162266a755cbf2a261ddd206135c06420f6ff1",
+    "https://sunilshreshta.github.io/en/assets/images/projects/reservaEspais.PNG": "cbb804b2552fe5dd04d410c5639048b5889510cd",
+    "https://sunilshreshta.github.io/en/assets/images/projects/workpoint.jpg": "253ebd1d18041d71d70b6f47dd3c69e8e1fabb75",
+    "https://sunilshreshta.github.io/en/assets/images/sunil.png": "66fe40c66e958bff050ab5417dc76974e02b21cf",
+    "https://sunilshreshta.github.io/en/assets/scss/_app.scss": "86ac5abb275fcd6fddde32006c749ea1c8bd7c92",
+    "https://sunilshreshta.github.io/en/assets/scss/_reset.scss": "75adb84cfae83b2b9b1af435ae78cbc635316ba7",
+    "https://sunilshreshta.github.io/en/assets/scss/_variables.scss": "ace7b663cf4248316c2220c5fa03e1a82c00ece1",
+    "https://sunilshreshta.github.io/en/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://sunilshreshta.github.io/en/index.html": "47c10ec397406e2ef5da0d21e1277a882e8559a6",
+    "https://sunilshreshta.github.io/en/main.3e2bdee79a228444b361.js": "c3f9e5794cb67621867aa282cf2dd636abbe4ca9",
+    "https://sunilshreshta.github.io/en/manifest.webmanifest": "bba580dddd39eeed15b8423449ff3d285510606d",
+    "https://sunilshreshta.github.io/en/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "https://sunilshreshta.github.io/en/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://sunilshreshta.github.io/en/scripts.8c895b14ac5afb48e4f9.js": "4a9c47c12b0a252ee4fab9b88e7006cb6b075fdf",
+    "https://sunilshreshta.github.io/en/styles.ce5f02d4d43d8ffe079e.css": "b64b65329af156b6d7f93bf226e3a18e0c8c7b4c"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
